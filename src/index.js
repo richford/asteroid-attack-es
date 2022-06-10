@@ -309,6 +309,7 @@ const practiceBlock = {
     data.accuracy = data.correct_choice == data.response;
     data.grade = grade;
     data.participant = participantId;
+    data.schoolId = schoolId;
     data.blockType = 'practice';
     data.condition = jsPsych.timelineVariable('condition');
     firekit.writeTrial(data);
