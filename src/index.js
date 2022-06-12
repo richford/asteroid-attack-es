@@ -28,7 +28,7 @@ import jsPsychPavlovia from './jsPsychPavlovia';
 
 // Set up all experiment related info here
 const jsPsychForURL = initJsPsych();
-let participantId = jsPsychForURL.data.getURLVariable('participantId');
+let participantId = jsPsychForURL.data.getURLVariable('participant');
 let grade;
 const schoolId = jsPsychForURL.data.getURLVariable('schoolId');
 
