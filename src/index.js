@@ -13,17 +13,17 @@ import 'regenerator-runtime/runtime';
 import { RoarFirekit } from '@bdelab/roar-firekit';
 
 // import bullsEye from './img/bullsEye.png';
-import introVideo1 from './video/Asteroid_Attack_Intro1.mp4';
-import introVideo2 from './video/Asteroid_Attack_Intro2.mp4';
-import introVideo3 from './video/Asteroid_Attack_Intro3.mp4';
-import introVideo4 from './video/Asteroid_Attack_Intro4.mp4';
-import introVideo5 from './video/Asteroid_Attack_Intro5.mp4';
-import endVideo from './video/Asteroid_Attack_End.mp4';
-import levelUpVideo1 from './video/Asteroid_Attack_Level_Up_1.mp4';
-import levelUpVideo2 from './video/Asteroid_Attack_Level_Up_2.mp4';
-import levelUpVideo3 from './video/Asteroid_Attack_Level_Up_3.mp4';
-import levelUpVideo4 from './video/Asteroid_Attack_Level_Up_4.mp4';
-import levelUpVideo5 from './video/Asteroid_Attack_Level_Up_5.mp4';
+import introVideo1 from './video/Spanish_Honey_Hunt_Intro_1.mp4';
+import introVideo2 from './video/Spanish_Honey_Hunt_Intro_2.mp4';
+import introVideo3 from './video/Spanish_Honey_Hunt_Intro_3.mp4';
+import introVideo4 from './video/Spanish_Honey_Hunt_Intro_4.mp4';
+import introVideo5 from './video/Spanish_Honey_Hunt_Intro_5.mp4';
+import endVideo from './video/Spanish_Honey_Hunt_End.mp4';
+import levelUpVideo1 from './video/Spanish_Honey_Hunt_Level_Up_1.mp4';
+import levelUpVideo2 from './video/Spanish_Honey_Hunt_Level_Up_2.mp4';
+import levelUpVideo3 from './video/Spanish_Honey_Hunt_Level_Up_3.mp4';
+import levelUpVideo4 from './video/Spanish_Honey_Hunt_Level_Up_4.mp4';
+import levelUpVideo5 from './video/Spanish_Honey_Hunt_Level_Up_5.mp4';
 import { rootDoc } from './firebaseConfig';
 import jsPsychPavlovia from './jsPsychPavlovia';
 
